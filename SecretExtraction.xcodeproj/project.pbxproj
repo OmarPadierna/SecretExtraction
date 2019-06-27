@@ -330,7 +330,7 @@
 				CA187CAA22C51F5F00E14D6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		CA187CAB22C51F5F00E14D6B /* Build configuration list for PBXNativeTarget "SecretExtraction" */ = {
 			isa = XCConfigurationList;
@@ -339,7 +339,7 @@
 				CA187CAD22C51F5F00E14D6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
